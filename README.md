@@ -1,7 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Kotone Tachikawa</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Computer+Science+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Coding+%26+Creating+Every+Day!" alt="Typing SVG" />
-</p>
 
 ---
 
