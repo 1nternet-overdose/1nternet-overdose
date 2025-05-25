@@ -35,13 +35,3 @@
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4noMe&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=4noMe&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4noMe&theme=tokyo-night" alt="activity graph" />
-</p>
